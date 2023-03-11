@@ -24,19 +24,23 @@ Watch videos, create playlists, share playlists of your porn or download content
 
 ## Blurred Screenshots
 
-![App Screenshot](./screenshot/screenshot_1.jpg)
-![App Screenshot](./screenshot/screenshot_2.jpg)
-![App Screenshot](./screenshot/screenshot_3.jpg)
-![App Screenshot](./screenshot/screenshot_4.jpg)
-![App Screenshot](./screenshot/screenshot_5.jpg)
-![App Screenshot](./screenshot/screenshot_6.jpg)
-![App Screenshot](./screenshot/screenshot_7.jpg)
-![App Screenshot](./screenshot/screenshot_8.jpg)
-![App Screenshot](./screenshot/screenshot_9.jpg)
-![App Screenshot](./screenshot/screenshot_10.jpg)
-![App Screenshot](./screenshot/screenshot_11.jpg)
-![App Screenshot](./screenshot/screenshot_12.jpg)
-![App Screenshot](./screenshot/screenshot_13.jpg)
-![App Screenshot](./screenshot/screenshot_14.jpg)
-![App Screenshot](./screenshot/screenshot_15.jpg)
+<div>
+  <img src="./assets/github/screenshot_1.jpg" width="32%"/>
+  <img src="./assets/github/screenshot_2.jpg" width="32%"/>
+  <img src="./assets/github/screenshot_3.jpg" width="32%"/>
+  <img src="./assets/github/screenshot_4.jpg" width="32%"/>
+  <img src="./assets/github/screenshot_5.jpg" width="32%"/>
+  <img src="./assets/github/screenshot_6.jpg" width="32%"/>
+  <img src="./assets/github/screenshot_7.jpg" width="32%"/>
+  <img src="./assets/github/screenshot_8.jpg" width="32%"/>
+  <img src="./assets/github/screenshot_9.jpg" width="32%"/>
+  <img src="./assets/github/screenshot_10.jpg" width="32%"/>
+  <img src="./assets/github/screenshot_11.jpg" width="32%"/>
+  <img src="./assets/github/screenshot_12.jpg" width="32%"/>
+  <img src="./assets/github/screenshot_13.jpg" width="32%"/>
+  <img src="./assets/github/screenshot_14.jpg" width="32%"/>
+  <img src="./assets/github/screenshot_15.jpg" width="32%"/>
+</div>
+
+
 
