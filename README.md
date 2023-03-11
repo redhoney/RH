@@ -39,7 +39,7 @@ Watch videos, create playlists, share playlists of your porn or download content
  
   <img src="./screenshots/screenshot_13.jpg" width="32%"/>
   <img src="./screenshots/screenshot_14.jpg" width="32%"/>
-  <img src="./screenshots/screenshot_15.jpg" width="32%"/>
+
 </div>
 
 
