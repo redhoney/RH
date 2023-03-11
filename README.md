@@ -36,7 +36,7 @@ Watch videos, create playlists, share playlists of your porn or download content
   <img src="./screenshots/screenshot_9.jpg" width="32%"/>
   <img src="./screenshots/screenshot_10.jpg" width="32%"/>
   <img src="./screenshots/screenshot_11.jpg" width="32%"/>
-  <img src="./screenshots/screenshot_12.jpg" width="32%"/>
+ 
   <img src="./screenshots/screenshot_13.jpg" width="32%"/>
   <img src="./screenshots/screenshot_14.jpg" width="32%"/>
   <img src="./screenshots/screenshot_15.jpg" width="32%"/>
